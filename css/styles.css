@@ -1,0 +1,17 @@
+#show-task {
+  display: none;
+}
+
+.task {
+  cursor: pointer;
+  color: #0088CC;
+}
+
+.task:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
